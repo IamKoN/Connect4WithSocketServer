@@ -34,7 +34,8 @@ The two images are used to represent the two opponents in each pair of clients.
 
 ## Getting Started
 ----
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+1. Download as .zip and unzip in desired directory.
+1. Clone onto your local machine via GitHub Desktop or via the git address
 
 ### Prerequisites
 ----
@@ -85,7 +86,3 @@ Essentially, the server handles all the math, logic, and threads of the game, an
 ## License
 ----
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-	
-
-
